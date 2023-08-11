@@ -1,0 +1,109 @@
+.divherosection-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.divherosection-divherosection {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 165px 360px 105px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.divherosection-frame1 {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.divherosection-div75vhheightdiv {
+  width: 1200px;
+  height: 810px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.divherosection-div {
+  top: 67.169921875px;
+  left: 35px;
+  width: 1130px;
+  display: flex;
+  padding: 0 0 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.divherosection-heading1 {
+  width: 1130px;
+  display: flex;
+  padding: 0 104.4800033569336px 0.160003662109375px 103.5199966430664px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.divherosection-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 115.19999694824219px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 126.72000122070312px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.divherosection-text07 {
+  top: 507px;
+  left: 390px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.divherosection-divherobuttondiv {
+  top: 697.02001953125px;
+  left: 518.6099853515625px;
+  width: 163px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.divherosection-link {
+  display: flex;
+  padding: 14px 40.779998779296875px 13.799999237060547px 41px;
+  align-items: flex-start;
+  border-radius: 200px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 1);
+}
+.divherosection-text12 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 16.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
