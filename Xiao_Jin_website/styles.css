@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh; /* 使得body至少和视口一样高 */
+  min-height: 80vh; /* 使得body至少和视口一样高 */
 }
 
 model-viewer {
